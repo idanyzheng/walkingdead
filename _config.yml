@@ -1,10 +1,10 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Tommy Chen
-language: en
-timezone: UTC
-url: https://hexo.io
+title: 行尸走肉
+subtitle: "行尸走肉"
+description: "行尸走肉, 行尸走肉论坛, 行尸走肉下载"
+author: 行尸走肉
+language: zh-cn
+timezone: UTC+8
+url: http://118.244.196.122
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -19,11 +19,11 @@ per_page: 0
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:hexojs/hexojs.github.io.git
+  repo: git@github.com:idany/idany.github.io.git
 
-disqus_shortname: hexojs
+disqus_shortname: xingshizourou
 google_analytics: UA-4910098-10
 fb_admins: 100000247608790
 swiftype_key: EwN4HMy_KMxTK_GMjV1z
-twitter: hexojs
-github: hexojs/hexo
+twitter: 
+github: xingshizourou/xingshizourou

@@ -1,6 +1,6 @@
 layout: plugins
-title: Themes
-data: themes
-partial: theme
+title: 行尸走肉演员
+data: artists
+partial: artist
 comments: false
 ---
