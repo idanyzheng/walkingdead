@@ -3,7 +3,7 @@ subtitle: "行尸走肉"
 description: "行尸走肉, 行尸走肉论坛, 行尸走肉下载"
 author: 行尸走肉
 language: zh-cn
-timezone: UTC+8
+timezone: UTC
 url: http://118.244.196.122
 root: /
 permalink: news/:year/:month/:day/:title/
