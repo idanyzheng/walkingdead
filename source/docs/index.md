@@ -1,23 +1,24 @@
-title: Documentation
+title: 行尸走肉
 ---
-Welcome to the Hexo documentation. If you encounter any problems when using Hexo, have a look at the  [troubleshooting guide](troubleshooting.html), raise an issue on [GitHub](https://github.com/hexojs/hexo/issues) or start a topic on the [Google Group](https://groups.google.com/group/hexo).
+超级喜欢《行尸走肉》！喜欢到想用开这个网站来表达内心的狂热。
 
-## What is Hexo?
+## 为什么是《行尸走肉》
 
-Hexo is a fast, simple and powerful blog framework. You write posts in [Markdown](http://daringfireball.net/projects/markdown/) (or other languages) and Hexo generates static files with a beautiful theme in seconds.
+行尸走肉，相信是最最让人入迷于换位思考。任何影视作品，我们都会将自己作为一个旁观者来观望剧情的走向。
+行尸走肉总是不停的让人置身入内！“我会怎么样”，“如果是我，我会这样吗？”
 
-## Installation
+## 我想干什么
 
-It only takes few minutes to set up Hexo. If you encounter a problem and can't find the solution here, please [submit a GitHub issue](https://github.com/hexojs/hexo/issues) and I'll try to solve it.
+一个人的力量实在太有限。如果能有志同道合的人，喜欢能在此产生思想上的碰撞！！
 
-### Requirements
+### 下载
 
-Installing Hexo is quite easy. However, you do need to have a couple of other things installed first:
+将收集尽少而全的资料供大家分享
 
 - [Node.js](http://nodejs.org/)
 - [Git](http://git-scm.com/)
 
-If your computer already has these, congratulations! Just install Hexo with npm:
+
 
 ``` bash
 $ npm install -g hexo-cli
@@ -29,14 +30,14 @@ If not, please follow the following instructions to install all the requirements
 You may encounter some problems when compiling. Please install Xcode from App Store first. After Xcode is installed, open Xcode and go to **Preferences -> Download -> Command Line Tools -> Install** to install command line tools.
 {% endnote %}
 
-### Install Git
+### 讨论
 
 - Windows: Download & install [git](https://git-scm.com/download/win).
 - Mac: Install it with [Homebrew](http://mxcl.github.com/homebrew/), [MacPorts](http://www.macports.org/) or [installer](http://sourceforge.net/projects/git-osx-installer/).
 - Linux (Ubuntu, Debian): `sudo apt-get install git-core`
 - Linux (Fedora, Red Hat, CentOS): `sudo yum install git-core`
 
-### Install Node.js
+### 分享
 
 The best way to install Node.js is with [nvm](https://github.com/creationix/nvm).
 
@@ -60,7 +61,7 @@ $ nvm install 0.12
 
 Alternatively, download and run [the installer](http://nodejs.org/).
 
-### Install Hexo
+### 吐槽
 
 Once all the requirements are installed, you can install Hexo with npm.
 
