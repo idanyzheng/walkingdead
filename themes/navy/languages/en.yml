@@ -2,7 +2,7 @@ menu:
   docs: Docs
   downloads: Downloads
   news: News
-  plugins: Plugins
+  # plugins: Plugins
   artists: Artists
   search: Search
 

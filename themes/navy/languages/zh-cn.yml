@@ -1,9 +1,9 @@
 menu:
-  docs: 文档
+  docs: 首页
   downloads: 下载
   news: 新闻
-  plugins: 插件
-  artists: 演员show
+  # plugins: 插件
+  artists: 演员表
   search: 搜索
 
 index:

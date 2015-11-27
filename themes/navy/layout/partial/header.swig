@@ -6,9 +6,6 @@
     <nav id="main-nav">
       <ul>
         {{ header_menu('main-nav') }}
-        <li class="main-nav-item">
-          <a href="https://github.com/{{ config.github }}" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
-        </li>
       </ul>
     </nav>
     <div id="lang-select-wrap">
