@@ -1,4 +1,4 @@
-{% set page.title = 'News' %}
+{% set page.title = '行尸走肉最新情况' %}
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">

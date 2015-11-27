@@ -1,5 +1,5 @@
 layout: plugins
-title: artists
+title: 行尸走肉最喜欢谁
 data: artists
 partial: artist
 comments: false
