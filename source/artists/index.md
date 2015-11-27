@@ -1,5 +1,5 @@
 layout: plugins
-title: 行尸走肉演员
+title: artists
 data: artists
 partial: artist
 comments: false
