@@ -1,7 +1,7 @@
 <header id="header" class="wrapper">
   <div id="header-inner" class="inner">
     <h1 id="logo-wrap">
-      <a href="{{ url_for_lang('') }}" id="logo">Hexo</a>
+      <a href="{{ url_for_lang('') }}" id="logo">行尸走肉</a>
     </h1>
     <nav id="main-nav">
       <ul>

@@ -1,45 +1,45 @@
-title: 文档
+title: 行尸走肉
 ---
+超级喜欢《行尸走肉》！喜欢到想用开这个网站来表达内心的狂热。
 
-欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 [问题解答](troubleshooting.html) 中的解答，或者在 [GitHub](https://github.com/hexojs/hexo/issues)、[Google Group](https://groups.google.com/group/hexo) 上提问。
+## 为什么是《行尸走肉》
 
-## 什么是 Hexo？
+行尸走肉，相信是最最让人入迷于换位思考。任何影视作品，我们都会将自己作为一个旁观者来观望剧情的走向。
+行尸走肉总是不停的让人置身入内！“我会怎么样”，“如果是我，我会这样吗？”
 
-Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 [Markdown](http://daringfireball.net/projects/markdown/)（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
+## 我想干什么
 
-## 安装
+一个人的力量实在太有限。如果能有志同道合的人，喜欢能在此产生思想上的碰撞！！
 
-安装 Hexo 只需几分钟时间，若您在安装过程中遇到问题或无法找到解决方式，请[提交问题](https://github.com/hexojs/hexo/issues)，我会尽力解决您的问题。
+### 下载
 
-### 安装前提
-
-安装 Hexo 相当简单。然而在安装前，您必须检查电脑中是否已安装下列应用程序：
+将收集尽少而全的资料供大家分享
 
 - [Node.js](http://nodejs.org/)
 - [Git](http://git-scm.com/)
 
-如果您的电脑中已经安装上述必备程序，那么恭喜您！接下来只需要使用 npm 即可完成 Hexo 的安装。
+
 
 ``` bash
 $ npm install -g hexo-cli
 ```
 
-如果您的电脑中尚未安装所需要的程序，请根据以下安装指示完成安装。
+If not, please follow the following instructions to install all the requirements.
 
-{% note warn Mac 用户 %}
-您在编译时可能会遇到问题，请先到 App Store 安装 Xcode，Xcode 完成后，启动并进入 **Preferences -> Download -> Command Line Tools -> Install** 安装命令行工具。
+{% note warn For Mac users %}
+You may encounter some problems when compiling. Please install Xcode from App Store first. After Xcode is installed, open Xcode and go to **Preferences -> Download -> Command Line Tools -> Install** to install command line tools.
 {% endnote %}
 
-### 安装 Git
+### 讨论
 
-- Windows：下载并安装 [git](https://git-scm.com/download/win).
-- Mac：使用 [Homebrew](http://mxcl.github.com/homebrew/), [MacPorts](http://www.macports.org/) 或下载 [安装程序](http://sourceforge.net/projects/git-osx-installer/) 安装。
-- Linux (Ubuntu, Debian)：`sudo apt-get install git-core`
-- Linux (Fedora, Red Hat, CentOS)：`sudo yum install git-core`
+- Windows: Download & install [git](https://git-scm.com/download/win).
+- Mac: Install it with [Homebrew](http://mxcl.github.com/homebrew/), [MacPorts](http://www.macports.org/) or [installer](http://sourceforge.net/projects/git-osx-installer/).
+- Linux (Ubuntu, Debian): `sudo apt-get install git-core`
+- Linux (Fedora, Red Hat, CentOS): `sudo yum install git-core`
 
-### 安装 Node.js
+### 分享
 
-安装 Node.js 的最佳方式是使用 [nvm](https://github.com/creationix/nvm)。
+The best way to install Node.js is with [nvm](https://github.com/creationix/nvm).
 
 cURL:
 
@@ -53,17 +53,17 @@ Wget:
 $ wget -qO- https://raw.github.com/creationix/nvm/master/install.sh | sh
 ```
 
-安装完成后，重启终端并执行下列命令即可安装 Node.js。
+Once nvm is installed, restart the terminal and run the following command to install Node.js.
 
 ``` bash
-$ nvm install 0.10
+$ nvm install 0.12
 ```
 
-或者您也可以下载 [应用程序](http://nodejs.org/) 来安装。
+Alternatively, download and run [the installer](http://nodejs.org/).
 
-### 安装 Hexo
+### 吐槽
 
-所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo。
+Once all the requirements are installed, you can install Hexo with npm.
 
 ``` bash
 $ npm install -g hexo-cli
