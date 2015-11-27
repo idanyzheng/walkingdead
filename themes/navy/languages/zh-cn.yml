@@ -1,6 +1,6 @@
 menu:
   docs: 文档
-  api: API
+  downloads: 下载
   news: 新闻
   plugins: 插件
   artists: 演员show
@@ -46,7 +46,7 @@ sidebar:
     miscellaneous: 其他
     troubleshooting: 问题解答
     contributing: 贡献
-  api:
+  downloads:
     core: 核心
     overview: 概述
     events: 事件
